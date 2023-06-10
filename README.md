@@ -4,10 +4,10 @@ This is the official Repository of [[paper]](https://arxiv.org/abs/2207.02338) (
 
 To cite this work, please use the following:
 ```bibtex
-@misc{daw2022mitigating,
-      title={Mitigating Propagation Failures in PINNs using Evolutionary Sampling}, 
+@misc{daw2023mitigating,
+      title={Mitigating Propagation Failures in Physics-informed Neural Networks using Retain-Resample-Release (R3) Sampling}, 
       author={Arka Daw and Jie Bu and Sifan Wang and Paris Perdikaris and Anuj Karpatne},
-      year={2022},
+      year={2023},
       eprint={2207.02338},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
